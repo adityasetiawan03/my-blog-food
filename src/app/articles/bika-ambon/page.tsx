@@ -31,7 +31,7 @@ export default function BikaAmbon() {
         <article className="p-4">
           <h2 className="text-2xl font-semibold">Sejarah dan Keunikan Bika Ambon</h2>
           <p className="text-gray-700 mt-2">
-            Bika Ambon adalah kue khas dari Medan, Sumatera Utara. Meski namanya mengandung kata "Ambon", makanan ini
+            Bika Ambon adalah kue khas dari Medan, Sumatera Utara. Meski namanya mengandung kata Ambon, makanan ini
             berasal dari Medan dan sangat terkenal dengan teksturnya yang bersarang dan kenyal. Kue ini dibuat dari
             campuran tepung tapioka, telur, gula, dan santan yang difermentasi sebelum dipanggang.
           </p>
